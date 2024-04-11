@@ -1,0 +1,100 @@
+#titulo {
+    padding-top: 50px;
+    text-align: center;
+    color: deeppink;
+    font-size: 80px;
+    letter-spacing: 10px;
+
+}
+
+#subtitulo {
+    text-align: right;
+    color: darkmagenta;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#paragrafo {
+    text-align: justify;
+    color: fuchsia;
+    font-size: 22px;
+    letter-spacing: 10px;
+    font-style: bold italic;
+}
+
+#subtitulo2 {
+    text-align: center;
+    color: peru;
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+
+#subtitulo3 {
+    text-align: right;
+    transform: rotate(180deg);
+    color: red;
+    font-size: 17px;
+    font-family: cursive;
+}
+
+#subtitulo4 {
+    text-align: center;
+    color: pink;
+    font-size: 20px;
+}
+
+#tela {
+    border: 3px solid #000000;
+    background-color: blueviolet;
+}
+
+#subtitulo5 {
+    text-align: right;
+    color: purple;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#img {
+    width: 50%;
+    height: 55%;
+    border-radius: 20%;
+}
+
+#paragrafo2 {
+    text-align: justify;
+    color: brown;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-style: bold italic;
+    padding: 35px;
+}
+
+#botao {
+    color: #00b0eb;
+    background-color: #123a47;
+    border-color: #00b0eb;
+    border-width: 1px;
+  }
+  
+  #botao:hover {
+    color: #000000;
+    background-color: #f6ec36;
+    border-color: #000000;
+    border-width: 2px;
+  }
+  
+  .botao2 {
+    color: #00b0eb;
+    background-color: #123a47;
+  }
+  
+  #botao3 {
+    color: #f5f7f7;
+  }
+  
+  #input {
+    width: 100px;
+  }
+  
